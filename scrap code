@@ -1,0 +1,4 @@
+for mirroring setup: 
+    mirror:
+    ref: matrix_pinky_home
+    distance: 223.7529778
